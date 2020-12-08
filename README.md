@@ -1,4 +1,4 @@
-# Covid-19-Dashboard, see https://vanessaca.shinyapps.io/covid19/
+# Covid-19-Dashboard
 
 Comparing countries and their Covid-19 history one on one, including
 - daily cases
@@ -7,3 +7,5 @@ Comparing countries and their Covid-19 history one on one, including
 - hospital beds per thousand
 - years of life expectancy
 - population density
+
+see https://vanessaca.shinyapps.io/covid19/
